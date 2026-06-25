@@ -1,4 +1,26 @@
-<!-- ==================== HEADER ==================== -<!-- ==================== TECH STACK ==================== -->
+<!-- ==================== HEADER ==================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=220&section=header&text=Sowmya%20Sree%20Kandukuri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+# 👋 Hi, I'm Sowmya Sree Kandukuri!
+
+💻 **Aspiring Full Stack Developer**  
+✨ Passionate about building creative, user-friendly web applications  
+
+</div>
+
+---
+
+## 🚀 About Me  
+
+- 🎓 Student & Tech Enthusiast  
+- 🌱 Currently learning: **Full Stack Development & Problem Solving**  
+- 💬 Ask me about: **HTML, CSS, JavaScript, Java**  
+- ⚡ Fun fact: *I love exploring new tech and creative designs ✨*
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages & Technologies  
@@ -22,13 +44,33 @@
 
 ---
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sowmyasreekandukuri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmyasreekandukuri&theme=radical&hide_border=true&background=0d1117" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Top Languages  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyasreekandukuri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
 ## 🏆 Achievements  
 
 <div align="center">
 
 🎤 **Singer** – Received a momento for performance  
-🥈 **Allen Talent Test** – Secured **2nd Rank** in 9th Class  
+🥈 **Allen Talent Test** – Secured **2nd Rank in 9th Class**  
 
 <br>
 
@@ -38,7 +80,6 @@
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -50,11 +91,18 @@
 
 ---
 
-<!-- ==================== FUN ==================== -->
 ## 🎯 Fun Zone  
 
 <div align="center">
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨  
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
 
 </div>
